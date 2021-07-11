@@ -1,0 +1,19 @@
+a:link{
+    text-decoration: none;
+    color: black;
+}
+a:visited{
+    color:black;
+}
+
+a:hover{
+    font-size: 15px;
+    color: grey;
+    text-decoration: none;
+}
+a:focus{
+    background: yellow;
+}
+a:active{
+    color: green;
+}
